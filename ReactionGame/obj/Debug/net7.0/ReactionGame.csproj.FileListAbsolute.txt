@@ -1,0 +1,17 @@
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\obj\Debug\net7.0\ReactionGame.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\obj\Debug\net7.0\ReactionGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\obj\Debug\net7.0\ReactionGame.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\obj\Debug\net7.0\ReactionGame.AssemblyInfo.cs
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\obj\Debug\net7.0\ReactionGame.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\bin\Debug\net7.0\ReactionGame.exe
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\bin\Debug\net7.0\ReactionGame.deps.json
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\bin\Debug\net7.0\ReactionGame.runtimeconfig.json
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\bin\Debug\net7.0\ReactionGame.dll
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\bin\Debug\net7.0\ReactionGame.pdb
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\obj\Debug\net7.0\ReactionGame.csproj.CopyComplete
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\obj\Debug\net7.0\ReactionGame.dll
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\obj\Debug\net7.0\refint\ReactionGame.dll
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\obj\Debug\net7.0\ReactionGame.pdb
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\obj\Debug\net7.0\ReactionGame.genruntimeconfig.cache
+C:\Users\danie\Documents\Programmering\reactiongamewebapi-Svaaan\reactiongame\obj\Debug\net7.0\ref\ReactionGame.dll
