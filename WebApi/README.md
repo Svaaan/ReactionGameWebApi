@@ -1,4 +1,8 @@
-## WebApi
+Assignment from backend course.
 
-Det är här du skapar ditt WebApi.
-Du kan med fördel använda **dotnet new webapi** och ta bort de delar du inte behöver.
+Add an api to the reaction game
+Send data by json using respone and request
+
+Storing request data with sqllite, entityframework
+
+will try to add cookies, data logger, and error handling certain values.
